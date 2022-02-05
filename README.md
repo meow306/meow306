@@ -4,7 +4,7 @@
 I'm currently in my fourth year of studying  Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🔭 I’m currently working on Skin Cancer Detection  
-- 🌱 I’m currently learning about finance,CFA,ML,AI 
+- 🌱 I’m currently learning about finance,ML,AI 
 - 📫 How to reach me: apurva4dudhe@gmail.com 
 - ⚡ Fun fact: I love meditation,yoga and living a healthy and active lifestyle  
 
