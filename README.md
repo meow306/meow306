@@ -9,7 +9,6 @@ I'm currently in my fourth year of studying  Computer science and engineering. I
 - ⚡ Fun fact: I love meditation,yoga and living a healthy and active lifestyle  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/meow306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/apurva-dudhe/)  
 
 
 
